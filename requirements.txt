@@ -1,0 +1,10 @@
+llama-index
+llama-index-core
+llama-index-embeddings-openai
+llama-parse
+llama-index-vector-stores-kdbai
+pandas
+llama-index-postprocessor-cohere-rerank
+kdbai_client
+fastapi
+uvicorn
